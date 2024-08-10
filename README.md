@@ -1,6 +1,6 @@
 # Snowman Artificial Intelligence Chatbot Guide
 
-This readme.md demonstrates how to train and load the models and discord bot.
+This readme demonstrates how to train and load the models and discord bot.
 
 ## Overview
 
